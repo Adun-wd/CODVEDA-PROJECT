@@ -291,9 +291,9 @@ margin-top: 2px;
     justify-content: center;
     text-align: left;
     /* margin-left: 20px; */
-    height: 10px;
+    /* height: 10px; */
     width: fit-content;
-    padding: 15px;
+    padding: 10px;
     background-color: #f8f5ef;
     color: rgb(37, 73, 46);
     border-radius: 50px;
