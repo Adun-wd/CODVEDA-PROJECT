@@ -290,7 +290,7 @@ margin-top: 2px;
 .get-started{
     margin-left: 20px;
     height: 10px;
-    width: 50px;
+    width: fit-content;
     padding: 15px;
     background-color: #f8f5ef;
     color: rgb(37, 73, 46);
